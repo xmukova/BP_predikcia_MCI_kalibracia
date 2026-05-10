@@ -19,8 +19,8 @@ Porovnávané kalibračné metódy: Platt scaling, isotonická regresia, tempera
 
 **1. Klonovanie repozitára**
 ```bash
-git clone <https://github.com/xmukova/BP_MCI_predikcia_kalibracia>
-cd BP_IMPLEMENTACIA
+git clone <https://github.com/xmukova/BP_predikcia_MCI_kalibracia>
+cd BP_predikcia_MCI_kalibracia
 ```
 Alebo stiahnutie digitálneho média `BP_AlenaMukova.zip`
 
@@ -72,7 +72,7 @@ data/raw/nacc_data_2025.csv
 
 ## Spustenie
 
-Skripty spúšťajte v nasledujúcom poradí:
+Skripty prechádzajte v nasledujúcom poradí:
 
 | Krok | Súbor | Popis |
 |------|-------|-------|
@@ -128,7 +128,7 @@ Spustite si vlastné experimenty definovaná v `src/config_experiments.py` pomoc
 ## Štruktúra projektu
 
 ```
-BP_IMPLEMENTACIA/
+BP_predikcia_MCI_kalibracia/
 ├── requirements.txt                    # Zoznam závislostí
 ├── README.md                           # Tento súbor
 │
